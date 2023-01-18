@@ -1,0 +1,17 @@
+.alert-heading {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    margin: 0 auto;
+    min-width: 328px;
+}
+
+.card-text {
+    cursor: pointer;
+}
+
+.c1 {
+    margin: 50px 20px 30px 150px;
+}
